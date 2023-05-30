@@ -21,7 +21,9 @@ Selenium WebDriver java is used along with TestNg as an assertiong Library and E
 
 ## To run tests:
 
-1- Open testng.xml file, right click and run and after the run a report will open with all test run details.
+**Note:** Any failed test cases will run again to be confident in the test run, and number of retries can be configured from Retry Class maxTry varialbe, it's located in test/java/utils.listeners.Retry
+
+1- Open testng.xml file, right click and run and after the run a report will open with all test run details.  
 
 2- Instructions to help you run with testng.xml.  
 
