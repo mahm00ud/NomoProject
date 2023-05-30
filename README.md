@@ -1,5 +1,6 @@
 # NomoProject
-This project applies POM(Page Object Model) and Data-Driven design patterns and ExtentReport is used to display a report after each run from testng.xml file.
+This project applies POM(Page Object Model) and Data-Driven design patterns and ExtentReport is used to display a report after each run from testng.xml file.  
+Selenium WebDriver java is used along with TestNg as an assertiong Library and ExtentReport for Reporting.
 
 ## Project Structure:
 **- Page Classes has the following:**  
